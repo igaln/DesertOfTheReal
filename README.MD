@@ -42,8 +42,7 @@ In the second half of the class, students will work in groups to build a final s
 -   Please Come on time
 
 ## Recommended Books
-	[Hamlet in The Holodeck](https://mitpress.mit.edu/books/hamlet-holodeck-updated-edition)
-
+[Hamlet in The Holodeck](https://mitpress.mit.edu/books/hamlet-holodeck-updated-edition)
 ## Curriculum
 
 ### Week 1
@@ -88,4 +87,4 @@ In the second half of the class, students will work in groups to build a final s
 	-   Reading:
 		-   Simulation vs Narrative, [Introduction to Ludology - Gonzalo Frasca](http://ludology.org/articles/VGT_final.pdf)
 	    -   [Jean Baudrillard, Simulacra and Simulation](Baudrillard%27s%20Simulacra%20and%20Simulations%20%28pdf%29)
-	    -   The Commodity as Spectacle - [Guy Debord, The Society of the Spectacle](Society%20of%20the%20Spectacle%20-%20The%20Anarchist%20Library) 
+	    -   The Commodity as Spectacle - [Guy Debord, The Society of the Spectacle](Society%20of%20the%20Spectacle%20-%20The%20Anarchist%20Library)
