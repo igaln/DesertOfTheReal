@@ -1,12 +1,12 @@
 ### Desert of the Real: Deep Dive into Social VR
 *![](https://lh3.googleusercontent.com/ZpgDeJg9rqZl9VNpjHXkIk5W9jqfxJ0m4EQIskEVU00AyfLfBWdpHp89bk6RtPjrx6ogUtW4oyU_ZZcr6pXNa3Uhwa9vWfA852c236dek-V-YdZ3m-Gn9cuhVHvCAhdVPQt2cAOA)**
 
-						Fall 2018
-				Friday 3:30 pm - 6:15 pm
-				Instructor: Igal Nassima
-				   igal@superbright.me
+	Fall 2018
+	Friday 3:30 pm - 6:15 pm
+	Instructor: Igal Nassima
 
-					   Office Hours:
+
+	Office Hours:
 
 
 ## INTRO
@@ -42,34 +42,38 @@ In the second half of the class, students will work in groups to build a final s
 -   Please Come on time
 
 ## Recommended Books
-
+	[Hamlet in The Holodeck](https://mitpress.mit.edu/books/hamlet-holodeck-updated-edition)
 
 ## Curriculum
 
 ### Week 1
 
--   Class intro, syllabus review, technical skills hare
--   Lecture -   Intro to Social VR
--   Discussion:
+ -   Class intro, syllabus review, technical skills hare
+ -   Lecture -   Intro to Social VR
+ -   Discussion:
 	-   Jon Rafman - Kool-Aid Man and Second Life [https://www.youtube.com/watch?v=owyNALlnxk0](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DowyNALlnxk0&sa=D&ust=1536727685982000)
 	-   Narrative vs Simulation
 	-   Intro to Unity Editor
 	-   Variables and Functions
 	-   Classes and Monobehaviour
--   Homework:
-	1)   Create a room in [VR Chat](https://www.google.com/url?q=https://vrchat.net/&sa=D&ust=1536727685983000) and make it your space.
-	2)  Reading:
+ -   Homework:		
+	 - Create a room in [VR Chat](https://www.google.com/url?q=https://vrchat.net/&sa=D&ust=1536727685983000)
+	 - Reading:
 		-   [Plato's, Allegory of the Cave](https://www.google.com/url?q=https://web.stanford.edu/class/ihum40/cave.pdf&sa=D&ust=1536727685983000)
 		-    [Janet H. Murray, From Additive to Express Form: Beyond “Multimedia](https://www.google.com/url?q=https://gwvideogames.files.wordpress.com/2012/11/murray-the-additive-to-expressive-form1.pdf&sa=D&ust=1536727685984000)”
 		- [Char Davies, Rethinking VR: Key Concepts and Concerns](https://www.google.com/url?q=http://www.immersence.com/publications/char/2003-CD-VSSM.html&sa=D&ust=1536727685984000)
-	3)   Unity Assignment
+
+	 - Unity Assignments
+		 - [Unity Assignment 001 - Basics](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)s
+		 - [Bonus Assignment - Generative Landscape](https://github.com/igaln/DesertOfTheReal/tree/master/HW1)
+
+
 
 ## Week 2
 
 -   Reading Discussions - Graph Session
 -   Watch/experience
 	-   Sachka Unseld - Dear Angelica (VR)
-
 -   Hands on Unity:
 	-   Build the a VR Cave in Unity Part 1
 		-   Instantiation and Objects
@@ -82,5 +86,6 @@ In the second half of the class, students will work in groups to build a final s
 -  Homework:
 	-   Unity Assignment
 	-   Reading:
-	    -   Jean Baudrillard, Simulacra and Simulation
-	    -   Guy Debord, The Society of the Spectacle
+		-   Simulation vs Narrative, [Introduction to Ludology - Gonzalo Frasca](http://ludology.org/articles/VGT_final.pdf)
+	    -   [Jean Baudrillard, Simulacra and Simulation](Baudrillard%27s%20Simulacra%20and%20Simulations%20%28pdf%29)
+	    -   The Commodity as Spectacle - [Guy Debord, The Society of the Spectacle](Society%20of%20the%20Spectacle%20-%20The%20Anarchist%20Library) 
