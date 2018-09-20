@@ -1,12 +1,11 @@
-### Desert of the Real: Deep Dive into Social VR
-*![](https://lh3.googleusercontent.com/ZpgDeJg9rqZl9VNpjHXkIk5W9jqfxJ0m4EQIskEVU00AyfLfBWdpHp89bk6RtPjrx6ogUtW4oyU_ZZcr6pXNa3Uhwa9vWfA852c236dek-V-YdZ3m-Gn9cuhVHvCAhdVPQt2cAOA)**
+## Desert of the Real: Deep Dive into Social VR
+*![](https://lh3.googleusercontent.com/ZpgDeJg9rqZl9VNpjHXkIk5W9jqfxJ0m4EQIskEVU00AyfLfBWdpHp89bk6RtPjrx6ogUtW4oyU_ZZcr6pXNa3Uhwa9vWfA852c236dek-V-YdZ3m-Gn9cuhVHvCAhdVPQt2cAOA)
 
 	Fall 2018
 	Friday 3:30 pm - 6:15 pm
-	Instructor: Igal Nassima
-
 
 	Office Hours:
+		Tuesdays: 1-3pm
 
 
 ## INTRO
@@ -45,7 +44,7 @@ In the second half of the class, students will work in groups to build a final s
 [Hamlet in The Holodeck](https://mitpress.mit.edu/books/hamlet-holodeck-updated-edition)
 ## Curriculum
 
-### Week 1
+### Week 1 ~ Intro
 
  -   Class intro, syllabus review, technical skills hare
  -   Lecture -   Intro to Social VR
@@ -67,24 +66,153 @@ In the second half of the class, students will work in groups to build a final s
 		 - [Bonus Assignment - Generative Landscape](https://github.com/igaln/DesertOfTheReal/tree/master/HW1)
 
 
-
-## Week 2
+## Week 2 ~ Building Blocks
 
 -   Reading Discussions - Graph Session
 -   Watch/experience
 	-   Sachka Unseld - Dear Angelica (VR)
 -   Hands on Unity:
-	-   Build the a VR Cave in Unity Part 1
+	-   Intro to Building Blocks of a Scene
 		-   Instantiation and Objects
 		-   Parameter Control
 		-   Basic Animation
-		-   Unity Assets
-		-   Introduction to VR Camera
-	    -   Homework
-
 -  Homework:
 	-   Unity Assignment
 	-   Reading:
 		-   Simulation vs Narrative, [Introduction to Ludology - Gonzalo Frasca](http://ludology.org/articles/VGT_final.pdf)
 	    -   [Jean Baudrillard, Simulacra and Simulation](Baudrillard%27s%20Simulacra%20and%20Simulations%20%28pdf%29)
 	    -   The Commodity as Spectacle - [Guy Debord, The Society of the Spectacle](Society%20of%20the%20Spectacle%20-%20The%20Anarchist%20Library)
+
+## Week 3 ~ Building Blocks
+
+-   Reading Discussions
+-   Watch/experience
+	-   Matrix - Desert of the Real
+-   Hands on Unity:
+-   Build a world in Unity Part 1
+		-  	All About that Transform
+		-   Movement & Collision
+		-   Lighting & Shadows
+		-   Audio Integration
+		-   Basic Physics
+-   Homework:
+	-   Unity Assignment
+		- Build a simple game
+	-   Reading:
+		-   [Vilem Flusser: Writings](https://www.google.com/url?q=http://www.altx.com/remix.fall.2008/flusser.pdf&sa=D&ust=1537458219939000)
+		-   [Watching People Is Not a Game: Interactive Online Corporeality, Twitch.tv and Videogame Streams](https://www.google.com/url?q=http://gamestudies.org/1701/articles/anderson&sa=D&ust=1537458219939000)
+		-   [Jonathan Crary - Techniques of the Observer](https://www.google.com/url?q=http://atc.berkeley.edu/201/readings/Crary_Techniques.pdf&sa=D&ust=1537458219939000)
+
+## Week 4 ~ Interactions
+
+-   Reading Discussions - Graph Session
+-   Hands on Unity:
+	-   Build the world in Unity Part 2
+		-   VR Camera
+		-   Interactions with Controllers
+		-   Movement Control
+		-   VRTK
+		-   Creating a Narrative Recording
+-   Homework:
+	-   Unity Assignment
+		-   Creating a Streaming VR App Using Twitch
+	-   Podcast
+		-   [Elemental Theory of Presence](https://www.google.com/url?q=http://voicesofvr.com/502-an-elemental-theory-of-presence-future-of-ai-interactive-storytelling/&sa=D&ust=1537458219941000)
+	-   Reading
+		-   [The Sense of Embodiment in Virtual Reality](https://www.google.com/url?q=https://drive.google.com/file/d/1wyBtqWwPdtFXMCb2JvEQ6v4FltMBgjpW/view?usp%3Dsharing&sa=D&ust=1537458219941000)
+		-   Coming of Age in Second Life - [Place & Time](https://www.google.com/url?q=https://drive.google.com/file/d/1_VXZhJULqrTpk7NtUbVo5f4Iuqm5nhEM/view?usp%3Dsharing&sa=D&ust=1537458219942000)
+
+## Week 5 ~ Twitch Presentations and Reviews
+
+-   Projects critiques and reviews
+-   Thinking final projects
+-   Form Groups
+	-   Ideation & Storyboarding for VR Exercise
+-   Homework:
+	-   Unity Assignment
+	-   Reading
+		-   [Janet H. Murray, Harbingers of the Holodeck](https://www.google.com/url?q=http://lm03-17.digitalscenography.org/wp-content/uploads/2017/09/Hamlet-on-the-Holodeck.pdf&sa=D&ust=1537458219943000) (Chapter 2)
+		-   [Landscape, Earth, Body, Being, Space, and Time in the](https://www.google.com/url?q=http://www.immersence.com/publications/char/2003-CD-Women-Art-Tech.html&sa=D&ust=1537458219943000) [Immersive Virtual Environments Osmose and Ephémère](https://www.google.com/url?q=http://www.immersence.com/publications/char/2003-CD-Women-Art-Tech.html&sa=D&ust=1537458219944000)
+	-   Listen
+		-    [Sara Ludy - Warzone](https://www.google.com/url?q=https://soundcloud.com/untitledartfairradio/sara-ludy-warzone&sa=D&ust=1537458219944000)
+
+## Week 6 ~ Embodiment
+
+-   Reading Discussions
+-   Watch/experience
+	-   Office Simulation (VR)
+-   Hands on Unity:
+	-   Avatar Control
+	-   Rigging
+	-   Inverse Kinematics
+	-   Animation Recording & Playback
+-   Homework:
+	-   Unity Assignment
+	-   Reading
+		-   Tom Boellstorff - The self - The life course -Avatar and alts - Gender and Race - Agency
+		-   [Digital Sensations: Space, Identity and Embodiment in Virtual Reality](https://www.google.com/url?q=https://monoskop.org/images/4/4b/Hillis_Ken_Digital_Sensations_Space_Identity_and_Embodiment_in_Virtual_Reality.pdf&sa=D&ust=1537458219945000)
+
+##  Week 7 ~ Networking Week 1
+
+-   Reading Discussions - Graph Session
+-   Watch/Experience
+	-   The Cave
+	-   In Your Shoes (VR)
+-   Hands on Unity:
+	-   Social VR Construct 1
+	-   Avatar Creating Techniques
+		-   3D Scanning
+		-   Modeling - Rigging
+		-   Mixamo Process
+	-   Animation Control
+	-   IK
+	-   Mocap Suits
+		-   Perception Neuron
+		-   Optitrack
+-   Recording and Playback
+-   Homework:
+	-   Unity Assignment - Create your first avatar
+	-   Reading:
+		-   Steven Shaviro, Connected, or What It Means to Live in the Network Society
+		-   Virtual Reality, Healing Practice: An Interview with Char Davies
+
+##  Week 8 ~ Networking Week 2
+
+-   Reading/Discussion:
+	-   Enter the (un)Canny Valley
+-   Hands on Unity:
+	-   Social VR Construct 2
+	-   Networking Concepts in Unity
+		-   Spawning
+		-   Authority
+		-   Synchronization
+		-   Networking Objects
+		-   Networking Avatars
+		-   Face Animation
+	-   Watch/Experience
+		-   Zikr (VR)
+		-   Life of Us (VR)
+-   Try
+	-   WaveVR
+-   Homework:
+	-   Unity Assignment
+		- Create a shared drawing scene in VR
+	-   Presentations for Project Pitches
+
+##  Week 9 ~ Final Project Concept Presentations
+
+ Guest Critics, Project Presentations
+
+##  Week 10 ~ Final Project work Session 1
+
+- Guest Speaker   
+- Coding Workshop
+
+##  Week 11~ Final Project work Session 2
+
+- Guest Speaker   
+- Coding Workshop
+
+##  Week 12 ~ Final Project Presentations
+
+- Final Presentations
