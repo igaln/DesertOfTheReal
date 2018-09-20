@@ -1,5 +1,5 @@
-## Desert of the Real: Deep Dive into Social VR
-*![](https://lh3.googleusercontent.com/ZpgDeJg9rqZl9VNpjHXkIk5W9jqfxJ0m4EQIskEVU00AyfLfBWdpHp89bk6RtPjrx6ogUtW4oyU_ZZcr6pXNa3Uhwa9vWfA852c236dek-V-YdZ3m-Gn9cuhVHvCAhdVPQt2cAOA)
+# Desert of the Real: Deep Dive into Social VR
+![](https://lh3.googleusercontent.com/ZpgDeJg9rqZl9VNpjHXkIk5W9jqfxJ0m4EQIskEVU00AyfLfBWdpHp89bk6RtPjrx6ogUtW4oyU_ZZcr6pXNa3Uhwa9vWfA852c236dek-V-YdZ3m-Gn9cuhVHvCAhdVPQt2cAOA)
 
 	Fall 2018
 	Friday 3:30 pm - 6:15 pm
@@ -77,27 +77,27 @@ In the second half of the class, students will work in groups to build a final s
 		-   Parameter Control
 		-   Basic Animation
 -  Homework:
-	-   Unity Assignment
+	-   [Unity Assignment](https://github.com/igaln/DesertOfTheReal/tree/master/HW2)
 	-   Reading:
 		-   Simulation vs Narrative, [Introduction to Ludology - Gonzalo Frasca](http://ludology.org/articles/VGT_final.pdf)
 	    -   [Jean Baudrillard, Simulacra and Simulation](Baudrillard%27s%20Simulacra%20and%20Simulations%20%28pdf%29)
 	    -   The Commodity as Spectacle - [Guy Debord, The Society of the Spectacle](Society%20of%20the%20Spectacle%20-%20The%20Anarchist%20Library)
 
-## Week 3 ~ Building Blocks
+## Week 3 ~ Building Blocks p2
 
 -   Reading Discussions
 -   Watch/experience
 	-   Matrix - Desert of the Real
 -   Hands on Unity:
--   Build a world in Unity Part 1
-		-  	All About that Transform
-		-   Movement & Collision
-		-   Lighting & Shadows
-		-   Audio Integration
-		-   Basic Physics
+	- Build a world in Unity Part 1
+		- All About that Transform
+		- Movement & Collision
+		- Lighting & Shadows
+		- Audio Integration
+		- Basic Physics
 -   Homework:
 	-   Unity Assignment
-		- Build a simple game
+		- [Build a simple asteroid game](https://github.com/igaln/DesertOfTheReal/tree/master/HW3)
 	-   Reading:
 		-   [Vilem Flusser: Writings](https://www.google.com/url?q=http://www.altx.com/remix.fall.2008/flusser.pdf&sa=D&ust=1537458219939000)
 		-   [Watching People Is Not a Game: Interactive Online Corporeality, Twitch.tv and Videogame Streams](https://www.google.com/url?q=http://gamestudies.org/1701/articles/anderson&sa=D&ust=1537458219939000)
