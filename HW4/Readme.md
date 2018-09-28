@@ -5,7 +5,7 @@ Build a drawing game that can be recording from the computer screen using a 3rd 
 
 #### Download the template here
 
-	[https://drive.google.com/file/d/1GJREVxScaeJOe4Pcm19S9jqSkgSuq-5e/view?usp=sharing](https://drive.google.com/file/d/1GJREVxScaeJOe4Pcm19S9jqSkgSuq-5e/view?usp=sharing)
+[https://drive.google.com/file/d/1GJREVxScaeJOe4Pcm19S9jqSkgSuq-5e/view?usp=sharing](https://drive.google.com/file/d/1GJREVxScaeJOe4Pcm19S9jqSkgSuq-5e/view?usp=sharing)
 
 ### Must have functinalities
 
