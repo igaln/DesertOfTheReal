@@ -114,20 +114,22 @@ In the second half of the class, students will work in groups to build a final s
 		-   VRTK
 		-   Creating a Narrative Recording
 -   Homework:
-	-   Unity Assignment
-		-   Creating a Streaming VR App Using Twitch
+	-	 Start ideating your final projects  
+	-   [Unity Assignment](https://github.com/igaln/DesertOfTheReal/tree/master/HW4)
+		-	Create a drawing app with multiple brushes and record your drawing from 3RD party camera perspective
+		-  Bonus: Creating a Streaming VR App Using Twitch
 	-   Podcast
 		-   [Elemental Theory of Presence](https://www.google.com/url?q=http://voicesofvr.com/502-an-elemental-theory-of-presence-future-of-ai-interactive-storytelling/&sa=D&ust=1537458219941000)
 	-   Reading
 		-   [The Sense of Embodiment in Virtual Reality](https://www.google.com/url?q=https://drive.google.com/file/d/1wyBtqWwPdtFXMCb2JvEQ6v4FltMBgjpW/view?usp%3Dsharing&sa=D&ust=1537458219941000)
 		-   Coming of Age in Second Life - [Place & Time](https://www.google.com/url?q=https://drive.google.com/file/d/1_VXZhJULqrTpk7NtUbVo5f4Iuqm5nhEM/view?usp%3Dsharing&sa=D&ust=1537458219942000)
 
-## Week 5 ~ Twitch Presentations and Reviews
+## Week 5 ~ Social VR Demos and Planning Final Projects
 
 -   Projects critiques and reviews
 -   Thinking final projects
 -   Form Groups
-	-   Ideation & Storyboarding for VR Exercise
+	-   Ideation & Storyboarding for creating Social VR Exercise
 -   Homework:
 	-   Unity Assignment
 	-   Reading
