@@ -12,11 +12,11 @@
 
 The virtual expansion of screens began during the 1960’s with the exploration of head-mounted displays. Since the 60’s, virtual reality has been explored in a multi-disciplinary context including philosophy, design, arts, behavioral therapy.
 
-Baudrillard, with his publication of Simulacra and Simulation (1981), declared that human experience is being replaced by a simulation of reality (HyperReality). His theories brought the dystopian narrative of the virtual to mainstream pop-culture, as seen in films such as The  Lawnmower Man and The Matrix. Contrary to Baudrillard, Canadian VR Pioneer Char Davies brings a more constructive perspective to Virtual Reality,
+Baudrillard, with his publication of Simulacra and Simulation (1981), declared that human experience is being replaced by a simulation of reality (HyperReality). His theories help build upon a dystopian narrative of the virtual also present in mainstream pop-culture, as seen in films such as The  Lawnmower Man and The Matrix. Contrary to Baudrillard, Canadian VR Pioneer Char Davies brings a more constructive perspective to Virtual Reality,
 
 “facilitating a temporary release from our haitial perceptions and culturally biased assumptions about being in the world, to enable us, however momentarily, to perceive ourselves and the world us freshly.”
 
-Throughout the class, the friction between Baudrillard and Davies will create the foundation of our exploration of Virtual Reality, where we will use room scale headsets and game engines to create “temporal experiences” exploring themes from behavioral sciences to narrative storytelling.
+Throughout the class, the friction between Baudrillard and Davies will create the foundation of our exploration of Virtual Reality, where we will use room scale headsets and game engines to create “temporal experiences” diving into themes from behavioral sciences to narrative storytelling. 
 
 ### We will be exploring
 
@@ -111,7 +111,7 @@ In the second half of the class, students will work in groups to build a final s
 		-   VR Camera
 		-   Interactions with Controllers
 		-   Movement Control
-		-   VRTK
+		-   Inreaction libraries
 		-   Creating a Narrative Recording
 -   Homework:
 	-	 Start ideating your final projects  
