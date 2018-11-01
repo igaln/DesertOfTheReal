@@ -44,7 +44,7 @@ In the second half of the class, students will work in groups to build a final s
 [Hamlet in The Holodeck](https://mitpress.mit.edu/books/hamlet-holodeck-updated-edition)
 ## Curriculum
 
-### Week 1 ~ Intro
+## Week 1 ~ Intro (Sept 7)
 
  -   Class intro, syllabus review, technical skills hare
  -   Lecture -   Intro to Social VR
@@ -66,7 +66,7 @@ In the second half of the class, students will work in groups to build a final s
 		 - [Bonus Assignment - Generative Landscape](https://github.com/igaln/DesertOfTheReal/tree/master/HW1)
 
 
-## Week 2 ~ Building Blocks
+## Week 2 ~ Building Blocks (Sept 14)
 
 -   Reading Discussions - Graph Session
 -   Watch/experience
@@ -83,7 +83,7 @@ In the second half of the class, students will work in groups to build a final s
 	    -   [Jean Baudrillard, Simulacra and Simulation](Baudrillard%27s%20Simulacra%20and%20Simulations%20%28pdf%29)
 	    -   The Commodity as Spectacle - [Guy Debord, The Society of the Spectacle](Society%20of%20the%20Spectacle%20-%20The%20Anarchist%20Library)
 
-## Week 3 ~ Building Blocks p2
+## Week 3 ~ Building Blocks p2 (Sept 21)
 
 -   Reading Discussions
 -   Watch/experience
@@ -103,7 +103,7 @@ In the second half of the class, students will work in groups to build a final s
 		-   [Watching People Is Not a Game: Interactive Online Corporeality, Twitch.tv and Videogame Streams](https://www.google.com/url?q=http://gamestudies.org/1701/articles/anderson&sa=D&ust=1537458219939000)
 		-   [Jonathan Crary - Techniques of the Observer](https://www.google.com/url?q=http://atc.berkeley.edu/201/readings/Crary_Techniques.pdf&sa=D&ust=1537458219939000)
 
-## Week 4 ~ Interactions
+## Week 4 ~ Interactions (Sept 28)
 
 -   Reading Discussions - Graph Session
 -   Hands on Unity:
@@ -124,7 +124,7 @@ In the second half of the class, students will work in groups to build a final s
 		-   [The Sense of Embodiment in Virtual Reality](https://www.google.com/url?q=https://drive.google.com/file/d/1wyBtqWwPdtFXMCb2JvEQ6v4FltMBgjpW/view?usp%3Dsharing&sa=D&ust=1537458219941000)
 		-   Coming of Age in Second Life - [Place & Time](https://www.google.com/url?q=https://drive.google.com/file/d/1_VXZhJULqrTpk7NtUbVo5f4Iuqm5nhEM/view?usp%3Dsharing&sa=D&ust=1537458219942000)
 
-## Week 5 ~ Social VR Demos and Planning Final Projects
+## Week 5 ~ Social VR Demos and Planning Final Projects (Oct 5)
 
 -   Projects critiques and reviews
 -   Thinking final projects
@@ -138,7 +138,7 @@ In the second half of the class, students will work in groups to build a final s
 	-   Listen
 		-    [Sara Ludy - Warzone](https://www.google.com/url?q=https://soundcloud.com/untitledartfairradio/sara-ludy-warzone&sa=D&ust=1537458219944000)
 
-## Week 6 ~ Embodiment
+## Week 6 ~ Embodiment (Oct 12)
 
 -   Reading Discussions
 -   Watch/experience
@@ -151,70 +151,92 @@ In the second half of the class, students will work in groups to build a final s
 -   Homework:
 	-   Unity Assignment
 	-   Reading
-		-   Tom Boellstorff - The self - The life course -Avatar and alts - Gender and Race - Agency
+		-   [Tom Boellstorff - Chapter 5-  The self - The life course -Avatar and alts - Gender and Race - Agency](http://homes.lmc.gatech.edu/~cpearce3/ResearchPapers/Boellstorff%20-%20Coming%20of%20Age%20in%20Second%20Life.pdf)
 		-   [Digital Sensations: Space, Identity and Embodiment in Virtual Reality](https://www.google.com/url?q=https://monoskop.org/images/4/4b/Hillis_Ken_Digital_Sensations_Space_Identity_and_Embodiment_in_Virtual_Reality.pdf&sa=D&ust=1537458219945000)
 
-##  Week 7 ~ Networking Week 1
+##  Week 7 ~ Immersion & User Rxperience (Oct 19)
 
--   Reading Discussions - Graph Session
--   Watch/Experience
-	-   The Cave
-	-   In Your Shoes (VR)
+-   Reading Discussions 
 -   Hands on Unity:
-	-   Social VR Construct 1
-	-   Avatar Creating Techniques
-		-   3D Scanning
-		-   Modeling - Rigging
-		-   Mixamo Process
-	-   Animation Control
-	-   IK
-	-   Mocap Suits
-		-   Perception Neuron
-		-   Optitrack
--   Recording and Playback
+	-   User Experience Design for VR
+		-   VR Camera
+		-   Gaze
+		-   Movement
+		-   Controllers
+		-   Audio
+	-   Immersion
+		- Plausibility Illusion
+		- Place of Illusion
+		- The Self
+		- Paradox of Choice   
 -   Homework:
-	-   Unity Assignment - Create your first avatar
 	-   Reading:
 		-   Steven Shaviro, Connected, or What It Means to Live in the Network Society
 		-   Virtual Reality, Healing Practice: An Interview with Char Davies
+		
+##  Week 8 ~ Networking Week 1 (Oct 26)
 
-##  Week 8 ~ Networking Week 2
+-  Reading Discussions
+- 	Networking Concepts in Unity
+		-  Spawning
+		-	Authority
+		-  Synchronization
+		-  Networking Objects
+		-  Networking Avatars
+		-  Face Animation
+-   Recording and Playback
+-   Homework:
+	-   Final Projets Kick off
+
+##  Week 9 ~ Networking Week 2 (Nov 2)
 
 -   Reading/Discussion:
 	-   Enter the (un)Canny Valley
 -   Hands on Unity:
-	-   Social VR Construct 2
+	-   Social VR Construct
 	-   Networking Concepts in Unity
-		-   Spawning
-		-   Authority
-		-   Synchronization
-		-   Networking Objects
 		-   Networking Avatars
 		-   Face Animation
 	-   Watch/Experience
 		-   Zikr (VR)
-		-   Life of Us (VR)
--   Try
-	-   WaveVR
 -   Homework:
-	-   Unity Assignment
-		- Create a shared drawing scene in VR
-	-   Presentations for Project Pitches
+	-   Final Project Part 1
+	-   Try
+		-   WaveVR
 
-##  Week 9 ~ Final Project Concept Presentations
+	
+#### Final Projects Part 1 Due Tuesday Nov 6th
+-- Environments
+-- Room Scale Movement
+-- Basic Interactions
 
- Guest Critics, Project Presentations
+##  Week 10 ~ Final Project work Session 1 (Nov 9)
 
-##  Week 10 ~ Final Project work Session 1
+- Guest Speaker   
+- Coding Workshop
+-   Homework:
+	-   Final Project Part 2
+
+	
+#### Final Projects Part 2 Due Tuesday Nov 13th 
+-- Avatars (if any)
+-- Interactions
+-- Basic Networking
+-- Game Logic
+
+
+##  Week 11 ~ Final project work Session 2 (Nov 16th)
 
 - Guest Speaker   
 - Coding Workshop
 
-##  Week 11~ Final Project work Session 2
+#### Final Projects Part 3 Due, Tuesday Nov 20th 
+-- Installation Setup
+-- VR Enviroment Finalized
+-- Networking Finalized
+-- Game Experience
 
-- Guest Speaker   
-- Coding Workshop
 
-##  Week 12 ~ Final Project Presentations
+##  Week 12 ~ Final Project Presentations (Nov 26th)
 
 - Final Presentations
