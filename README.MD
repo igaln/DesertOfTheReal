@@ -1,8 +1,8 @@
 # Desert of the Real: Deep Dive into Social VR
 ![](https://lh3.googleusercontent.com/ZpgDeJg9rqZl9VNpjHXkIk5W9jqfxJ0m4EQIskEVU00AyfLfBWdpHp89bk6RtPjrx6ogUtW4oyU_ZZcr6pXNa3Uhwa9vWfA852c236dek-V-YdZ3m-Gn9cuhVHvCAhdVPQt2cAOA)
 
-	Fall 2018
-	Friday 3:30 pm - 6:15 pm
+	Fall 2019
+	Tuesday 3:30 pm - 6:15 pm
 
 	Office Hours:
 		Tuesdays: 1-3pm
