@@ -62,7 +62,7 @@ In the second half of the class, students will work in groups to build a final s
 		- [Char Davies, Rethinking VR: Key Concepts and Concerns](https://www.google.com/url?q=http://www.immersence.com/publications/char/2003-CD-VSSM.html&sa=D&ust=1536727685984000)
 
 	 - Unity Assignments
-		 - [Unity Assignment 001 - Basics](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)s
+		 - [Unity Assignment 001 - Basics](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)
 		 - [Bonus Assignment - Generative Landscape](https://github.com/igaln/DesertOfTheReal/tree/master/HW1)
 
 
