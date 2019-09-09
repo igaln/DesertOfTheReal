@@ -44,7 +44,7 @@ In the second half of the class, students will work in groups to build a final s
 [Hamlet in The Holodeck](https://mitpress.mit.edu/books/hamlet-holodeck-updated-edition)
 ## Curriculum
 
-## Week 1 ~ Intro (Sept 7)
+## Week 1 ~ Intro (Sept 10)
 
  -   Class intro, syllabus review, technical skills hare
  -   Lecture -   Intro to Social VR
@@ -66,7 +66,7 @@ In the second half of the class, students will work in groups to build a final s
 		 - [Bonus Assignment - Generative Landscape](https://github.com/igaln/DesertOfTheReal/tree/master/HW1)
 
 
-## Week 2 ~ Building Blocks (Sept 14)
+## Week 2 ~ Building Blocks (Sept 17)
 
 -   Reading Discussions - Graph Session
 -   Watch/experience
@@ -83,7 +83,7 @@ In the second half of the class, students will work in groups to build a final s
 	    -   [Jean Baudrillard, Simulacra and Simulation](Baudrillard%27s%20Simulacra%20and%20Simulations%20%28pdf%29)
 	    -   The Commodity as Spectacle - [Guy Debord, The Society of the Spectacle](Society%20of%20the%20Spectacle%20-%20The%20Anarchist%20Library)
 
-## Week 3 ~ Building Blocks p2 (Sept 21)
+## Week 3 ~ Building Blocks p2 (Sept 24)
 
 -   Reading Discussions
 -   Watch/experience
@@ -103,7 +103,7 @@ In the second half of the class, students will work in groups to build a final s
 		-   [Watching People Is Not a Game: Interactive Online Corporeality, Twitch.tv and Videogame Streams](https://www.google.com/url?q=http://gamestudies.org/1701/articles/anderson&sa=D&ust=1537458219939000)
 		-   [Jonathan Crary - Techniques of the Observer](https://www.google.com/url?q=http://atc.berkeley.edu/201/readings/Crary_Techniques.pdf&sa=D&ust=1537458219939000)
 
-## Week 4 ~ Interactions (Sept 28)
+## Week 4 ~ Interactions (Oct 01)
 
 -   Reading Discussions - Graph Session
 -   Hands on Unity:
@@ -124,7 +124,7 @@ In the second half of the class, students will work in groups to build a final s
 		-   [The Sense of Embodiment in Virtual Reality](https://www.google.com/url?q=https://drive.google.com/file/d/1wyBtqWwPdtFXMCb2JvEQ6v4FltMBgjpW/view?usp%3Dsharing&sa=D&ust=1537458219941000)
 		-   Coming of Age in Second Life - [Place & Time](https://www.google.com/url?q=https://drive.google.com/file/d/1_VXZhJULqrTpk7NtUbVo5f4Iuqm5nhEM/view?usp%3Dsharing&sa=D&ust=1537458219942000)
 
-## Week 5 ~ Social VR Demos and Planning Final Projects (Oct 5)
+## Week 5 ~ Social VR Demos and Planning Final Projects (Oct 8)
 
 -   Projects critiques and reviews
 -   Thinking final projects
@@ -138,7 +138,7 @@ In the second half of the class, students will work in groups to build a final s
 	-   Listen
 		-    [Sara Ludy - Warzone](https://www.google.com/url?q=https://soundcloud.com/untitledartfairradio/sara-ludy-warzone&sa=D&ust=1537458219944000)
 
-## Week 6 ~ Embodiment (Oct 12)
+## Week 6 ~ Embodiment (Oct 15)
 
 -   Reading Discussions
 -   Watch/experience
@@ -154,7 +154,7 @@ In the second half of the class, students will work in groups to build a final s
 		-   [Tom Boellstorff - Chapter 5-  The self - The life course -Avatar and alts - Gender and Race - Agency](http://homes.lmc.gatech.edu/~cpearce3/ResearchPapers/Boellstorff%20-%20Coming%20of%20Age%20in%20Second%20Life.pdf)
 		-   [Digital Sensations: Space, Identity and Embodiment in Virtual Reality](https://www.google.com/url?q=https://monoskop.org/images/4/4b/Hillis_Ken_Digital_Sensations_Space_Identity_and_Embodiment_in_Virtual_Reality.pdf&sa=D&ust=1537458219945000)
 
-##  Week 7 ~ Immersion & User Rxperience (Oct 19)
+##  Week 7 ~ Immersion & User Rxperience (Oct 22)
 
 -   Reading Discussions 
 -   Hands on Unity:
@@ -174,7 +174,7 @@ In the second half of the class, students will work in groups to build a final s
 		-   Steven Shaviro, Connected, or What It Means to Live in the Network Society
 		-   Virtual Reality, Healing Practice: An Interview with Char Davies
 		
-##  Week 8 ~ Networking Week 1 (Oct 26)
+##  Week 8 ~ Networking Week 1 (Oct 29)
 
 -  Reading Discussions
 - 	Networking Concepts in Unity
@@ -188,7 +188,7 @@ In the second half of the class, students will work in groups to build a final s
 -   Homework:
 	-   Final Projets Kick off
 
-##  Week 9 ~ Networking Week 2 (Nov 2)
+##  Week 9 ~ Networking Week 2 (Nov 5)
 
 -   Reading/Discussion:
 	-   Enter the (un)Canny Valley
@@ -205,12 +205,12 @@ In the second half of the class, students will work in groups to build a final s
 		-   WaveVR
 
 	
-#### Final Projects Part 1 Due Tuesday Nov 6th
+#### Final Projects Part 1 Due Tuesday Nov 12th
 -- Environments
 -- Room Scale Movement
 -- Basic Interactions
 
-##  Week 10 ~ Final Project work Session 1 (Nov 9)
+##  Week 10 ~ Final Project work Session 1 (Nov 19)
 
 - Guest Speaker   
 - Coding Workshop
