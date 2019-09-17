@@ -70,18 +70,19 @@ In the second half of the class, students will work in groups to build a final s
 
 -   Reading Discussions - Graph Session
 -   Watch/experience
-	-   Sachka Unseld - Dear Angelica (VR)
+	-   [Sachka Unseld - Dear Angelica (VR)](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)
 -   Hands on Unity:
 	-   Intro to Building Blocks of a Scene
+		- 	 All About that Transform
+		- 	 Movement & Collision
 		-   Instantiation and Objects
 		-   Parameter Control
 		-   Basic Animation
 -  Homework:
 	-   [Unity Assignment](https://github.com/igaln/DesertOfTheReal/tree/master/HW2)
 	-   Reading:
-		-   Simulation vs Narrative, [Introduction to Ludology - Gonzalo Frasca](http://ludology.org/articles/VGT_final.pdf)
-	    -   [Jean Baudrillard, Simulacra and Simulation](Baudrillard%27s%20Simulacra%20and%20Simulations%20%28pdf%29)
-	    -   The Commodity as Spectacle - [Guy Debord, The Society of the Spectacle](Society%20of%20the%20Spectacle%20-%20The%20Anarchist%20Library)
+		-    [Introduction to Ludology - Gonzalo Frasca](http://ludology.org/articles/VGT_final.pdf)
+	    -   [Jean Baudrillard, Simulacra and Simulation](https://www.e-reading.club/bookreader.php/144970/Baudrillard_-_Simulacra_and_Simulation.pdf)
 
 ## Week 3 ~ Building Blocks p2 (Sept 24)
 
@@ -90,17 +91,16 @@ In the second half of the class, students will work in groups to build a final s
 	-   Matrix - Desert of the Real
 -   Hands on Unity:
 	- Build a world in Unity Part 1
-		- All About that Transform
-		- Movement & Collision
 		- Lighting & Shadows
 		- Audio Integration
 		- Basic Physics
 -   Homework:
 	-   Unity Assignment
 		- [Build a simple asteroid game](https://github.com/igaln/DesertOfTheReal/tree/master/HW3)
+	- Content Assignment 
+		- [Scan your body for creating your avatar](https://www.youtube.com/watch?v=coYebICo2O8)
 	-   Reading:
-		-   [Vilem Flusser: Writings](https://www.google.com/url?q=http://www.altx.com/remix.fall.2008/flusser.pdf&sa=D&ust=1537458219939000)
-		-   [Watching People Is Not a Game: Interactive Online Corporeality, Twitch.tv and Videogame Streams](https://www.google.com/url?q=http://gamestudies.org/1701/articles/anderson&sa=D&ust=1537458219939000)
+		-   [Kevin_Bewersdorf, That's Incredible - p17](http://www.linkartcenter.eu/public/editions/Kevin_Bewersdorf_Spirit_Surfing_Link_Editions_2012.pdf)
 		-   [Jonathan Crary - Techniques of the Observer](https://www.google.com/url?q=http://atc.berkeley.edu/201/readings/Crary_Techniques.pdf&sa=D&ust=1537458219939000)
 
 ## Week 4 ~ Interactions (Oct 01)
@@ -112,17 +112,15 @@ In the second half of the class, students will work in groups to build a final s
 		-   Interactions with Controllers
 		-   Movement Control
 		-   Inreaction libraries
-		-   Creating a Narrative Recording
 -   Homework:
 	-	 Start ideating your final projects  
 	-   [Unity Assignment](https://github.com/igaln/DesertOfTheReal/tree/master/HW4)
 		-	Create a drawing app with multiple brushes and record your drawing from 3RD party camera perspective
-		-  Bonus: Creating a Streaming VR App Using Twitch
 	-   Podcast
 		-   [Elemental Theory of Presence](https://www.google.com/url?q=http://voicesofvr.com/502-an-elemental-theory-of-presence-future-of-ai-interactive-storytelling/&sa=D&ust=1537458219941000)
 	-   Reading
 		-   [The Sense of Embodiment in Virtual Reality](https://www.google.com/url?q=https://drive.google.com/file/d/1wyBtqWwPdtFXMCb2JvEQ6v4FltMBgjpW/view?usp%3Dsharing&sa=D&ust=1537458219941000)
-		-   Coming of Age in Second Life - [Place & Time](https://www.google.com/url?q=https://drive.google.com/file/d/1_VXZhJULqrTpk7NtUbVo5f4Iuqm5nhEM/view?usp%3Dsharing&sa=D&ust=1537458219942000)
+
 
 ## Week 5 ~ Social VR Demos and Planning Final Projects (Oct 8)
 
@@ -132,6 +130,7 @@ In the second half of the class, students will work in groups to build a final s
 	-   Ideation & Storyboarding for creating Social VR Exercise
 -   Homework:
 	-   Unity Assignment
+		- Create a Room for VR Chat
 	-   Reading
 		-   [Janet H. Murray, Harbingers of the Holodeck](https://www.google.com/url?q=http://lm03-17.digitalscenography.org/wp-content/uploads/2017/09/Hamlet-on-the-Holodeck.pdf&sa=D&ust=1537458219943000) (Chapter 2)
 		-   [Landscape, Earth, Body, Being, Space, and Time in the](https://www.google.com/url?q=http://www.immersence.com/publications/char/2003-CD-Women-Art-Tech.html&sa=D&ust=1537458219943000) [Immersive Virtual Environments Osmose and Ephémère](https://www.google.com/url?q=http://www.immersence.com/publications/char/2003-CD-Women-Art-Tech.html&sa=D&ust=1537458219944000)
@@ -147,9 +146,10 @@ In the second half of the class, students will work in groups to build a final s
 	-   Avatar Control
 	-   Rigging
 	-   Inverse Kinematics
-	-   Animation Recording & Playback
+	-   Animation Based Avatar Control
 -   Homework:
 	-   Unity Assignment
+		-  Create an avatar for VR Chat
 	-   Reading
 		-   [Tom Boellstorff - Chapter 5-  The self - The life course -Avatar and alts - Gender and Race - Agency](http://homes.lmc.gatech.edu/~cpearce3/ResearchPapers/Boellstorff%20-%20Coming%20of%20Age%20in%20Second%20Life.pdf)
 		-   [Digital Sensations: Space, Identity and Embodiment in Virtual Reality](https://www.google.com/url?q=https://monoskop.org/images/4/4b/Hillis_Ken_Digital_Sensations_Space_Identity_and_Embodiment_in_Virtual_Reality.pdf&sa=D&ust=1537458219945000)
@@ -171,8 +171,8 @@ In the second half of the class, students will work in groups to build a final s
 		- Paradox of Choice   
 -   Homework:
 	-   Reading:
-		-   Steven Shaviro, Connected, or What It Means to Live in the Network Society
-		-   Virtual Reality, Healing Practice: An Interview with Char Davies
+		-  Coming of Age in Second Life - [Place & Time](https://www.google.com/url?q=https://drive.google.com/file/d/1_VXZhJULqrTpk7NtUbVo5f4Iuqm5nhEM/view?usp%3Dsharing&sa=D&ust=1537458219942000)
+		-  Virtual Reality, Healing Practice: An Interview with Char Davies
 		
 ##  Week 8 ~ Networking Week 1 (Oct 29)
 
@@ -187,6 +187,8 @@ In the second half of the class, students will work in groups to build a final s
 -   Recording and Playback
 -   Homework:
 	-   Final Projets Kick off
+	-   Reading
+	-   [Watching People Is Not a Game: Interactive Online Corporeality, Twitch.tv and Videogame Streams](https://www.google.com/url?q=http://gamestudies.org/1701/articles/anderson&sa=D&ust=1537458219939000)
 
 ##  Week 9 ~ Networking Week 2 (Nov 5)
 
@@ -240,3 +242,4 @@ In the second half of the class, students will work in groups to build a final s
 ##  Week 12 ~ Final Project Presentations (Nov 26th)
 
 - Final Presentations
+ 
