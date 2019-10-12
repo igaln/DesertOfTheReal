@@ -139,16 +139,16 @@ In the second half of the class, students will work in groups to build a final s
 
 ## Week 6 ~ Midterms (Oct 22)
 
--   [Midterm Presentation Template](https://docs.google.com/presentation/d/1nMmd8ZdPKuQAyzbJD3bIPUrCZ0oldxWkMnYlonmaJ5c/edit?usp=sharing)
--   Midterm assignment
+-   Midterm Assignment Due
     -  Complete the presentation template with your groups in detail and rehearse presenting
+        - [Midterm Presentation Template](https://docs.google.com/presentation/d/1nMmd8ZdPKuQAyzbJD3bIPUrCZ0oldxWkMnYlonmaJ5c/edit?usp=sharing)
     -  Use Oculus Quill or Tilt Brush by Google to create 3D UX Diagrams and Flows
        -  [Oculus Quill](https://www.oculus.com/experiences/rift/1118609381580656/?locale=en_US)
        -  [Tilt Brush by Google](https://www.tiltbrush.com/)
     -  Prepare your interactive UX drawings in VR for the class.
 -   Presentations, Feedback and Guest Crit
 
-## Week 6 ~ Embodiment (Oct 29)
+## Week 7 ~ Embodiment (Oct 29)
 
 -   Reading Discussions
 -   Watch/experience
@@ -170,7 +170,7 @@ In the second half of the class, students will work in groups to build a final s
 		-   [Tom Boellstorff - Chapter 5-  The self - The life course -Avatar and alts - Gender and Race - Agency](http://homes.lmc.gatech.edu/~cpearce3/ResearchPapers/Boellstorff%20-%20Coming%20of%20Age%20in%20Second%20Life.pdf)
 		-   [Digital Sensations: Space, Identity and Embodiment in Virtual Reality](https://www.google.com/url?q=https://monoskop.org/images/4/4b/Hillis_Ken_Digital_Sensations_Space_Identity_and_Embodiment_in_Virtual_Reality.pdf&sa=D&ust=1537458219945000)
 
-##  Week 7 ~ Audio & Intro to Networking (Nov 5)
+##  Week 8 ~ Audio & Intro to Networking (Nov 5)
 
 -   Reading Discussions 
 -   Hands on Unity:
@@ -206,12 +206,12 @@ In the second half of the class, students will work in groups to build a final s
 		-   WaveVR
 
 	
-##  Week 9 Final Projects Part 1 Due Tuesday (Nov 19)
+##  Week 10 Final Projects Part 1 Due Tuesday (Nov 19)
 -- Environments
 -- Room Scale Movement
 -- Basic Interactions
 
-##  Week 10 ~ Final Project work Session 1 (Nov 26)
+##  Week 11 ~ Final Project work Session 1 (Nov 26)
 
 - Guest Speaker   
 - Coding Workshop
@@ -219,14 +219,9 @@ In the second half of the class, students will work in groups to build a final s
 	-   Final Project Part 2
 
 	
-##  Week 11 Final Projects Part 2 Due Tuesday (Dec 3) 
+##  Week 12 Final Projects Part 2 Due Tuesday (Dec 3) 
 -- Avatars (if any)
 -- Interactions
 -- Basic Networking
 -- Game Logic
 
-
-##  Week 12 ~ Final Project Presentations (Dec 10)
-
-- Final Presentations
- 
