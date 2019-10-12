@@ -140,6 +140,12 @@ In the second half of the class, students will work in groups to build a final s
 ## Week 6 ~ Midterms (Oct 22)
 
 -   [Midterm Presentation Template](https://docs.google.com/presentation/d/1nMmd8ZdPKuQAyzbJD3bIPUrCZ0oldxWkMnYlonmaJ5c/edit?usp=sharing)
+-   Midterm assignment
+    -  Complete the presentation template with your groups in detail and rehearse presenting
+    -  Use Oculus Quill or Tilt Brush by Google to create 3D UX Diagrams and Flows
+       -  [Oculus Quill](https://www.oculus.com/experiences/rift/1118609381580656/?locale=en_US)
+       -  [Tilt Brush by Google](https://www.tiltbrush.com/)
+    -  Prepare your interactive UX drawings in VR for the class.
 -   Presentations, Feedback and Guest Crit
 
 ## Week 6 ~ Embodiment (Oct 29)
