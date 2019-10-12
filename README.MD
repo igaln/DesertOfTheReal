@@ -103,7 +103,7 @@ In the second half of the class, students will work in groups to build a final s
 		-   [Kevin_Bewersdorf, That's Incredible - p17](http://www.linkartcenter.eu/public/editions/Kevin_Bewersdorf_Spirit_Surfing_Link_Editions_2012.pdf)
 		-   [Jonathan Crary - Techniques of the Observer](https://www.google.com/url?q=http://atc.berkeley.edu/201/readings/Crary_Techniques.pdf&sa=D&ust=1537458219939000)
 
-## Week 4 ~ Interactions (Oct 01)
+## Week 4 ~ Interactions (Oct 1)
 
 -   Reading Discussions - Graph Session
 -   Hands on Unity:
@@ -137,7 +137,12 @@ In the second half of the class, students will work in groups to build a final s
 	-   Listen
 		-    [Sara Ludy - Warzone](https://www.google.com/url?q=https://soundcloud.com/untitledartfairradio/sara-ludy-warzone&sa=D&ust=1537458219944000)
 
-## Week 6 ~ Embodiment (Oct 15)
+## Week 6 ~ Midterms (Oct 22)
+
+-   [Midterm Presentation Template](https://docs.google.com/presentation/d/1nMmd8ZdPKuQAyzbJD3bIPUrCZ0oldxWkMnYlonmaJ5c/edit?usp=sharing)
+-   Presentations, Feedback and Guest Crit
+
+## Week 6 ~ Embodiment (Oct 29)
 
 -   Reading Discussions
 -   Watch/experience
@@ -147,6 +152,11 @@ In the second half of the class, students will work in groups to build a final s
 	-   Rigging
 	-   Inverse Kinematics
 	-   Animation Based Avatar Control
+    -   Immersion
+		- Plausibility Illusion
+		- Place of Illusion
+		- The Self
+		- Paradox of Choice  
 -   Homework:
 	-   Unity Assignment
 		-  Create an avatar for VR Chat
@@ -154,43 +164,26 @@ In the second half of the class, students will work in groups to build a final s
 		-   [Tom Boellstorff - Chapter 5-  The self - The life course -Avatar and alts - Gender and Race - Agency](http://homes.lmc.gatech.edu/~cpearce3/ResearchPapers/Boellstorff%20-%20Coming%20of%20Age%20in%20Second%20Life.pdf)
 		-   [Digital Sensations: Space, Identity and Embodiment in Virtual Reality](https://www.google.com/url?q=https://monoskop.org/images/4/4b/Hillis_Ken_Digital_Sensations_Space_Identity_and_Embodiment_in_Virtual_Reality.pdf&sa=D&ust=1537458219945000)
 
-##  Week 7 ~ Immersion & User Rxperience (Oct 22)
+##  Week 7 ~ Audio & Intro to Networking (Nov 5)
 
 -   Reading Discussions 
 -   Hands on Unity:
 	-   User Experience Design for VR
-		-   VR Camera
-		-   Gaze
-		-   Movement
-		-   Controllers
-		-   Audio
-	-   Immersion
-		- Plausibility Illusion
-		- Place of Illusion
-		- The Self
-		- Paradox of Choice   
+		-   Spatial Audio
+    - 	Networking Concepts in Unity
+		-  Spawning
+		-  Authority
+		-  Synchronization
+		-  Networking Objects
+		-  Networking Avatars
+	 
 -   Homework:
 	-   Reading:
 		-  Coming of Age in Second Life - [Place & Time](https://www.google.com/url?q=https://drive.google.com/file/d/1_VXZhJULqrTpk7NtUbVo5f4Iuqm5nhEM/view?usp%3Dsharing&sa=D&ust=1537458219942000)
 		-  Virtual Reality, Healing Practice: An Interview with Char Davies
 		
-##  Week 8 ~ Networking Week 1 (Oct 29)
 
--  Reading Discussions
-- 	Networking Concepts in Unity
-		-  Spawning
-		-	Authority
-		-  Synchronization
-		-  Networking Objects
-		-  Networking Avatars
-		-  Face Animation
--   Recording and Playback
--   Homework:
-	-   Final Projets Kick off
-	-   Reading
-	-   [Watching People Is Not a Game: Interactive Online Corporeality, Twitch.tv and Videogame Streams](https://www.google.com/url?q=http://gamestudies.org/1701/articles/anderson&sa=D&ust=1537458219939000)
-
-##  Week 9 ~ Networking Week 2 (Nov 5)
+##  Week 9 ~ Networking Week 2 (Nov 12)
 
 -   Reading/Discussion:
 	-   Enter the (un)Canny Valley
@@ -207,12 +200,12 @@ In the second half of the class, students will work in groups to build a final s
 		-   WaveVR
 
 	
-#### Final Projects Part 1 Due Tuesday Nov 12th
+##  Week 9 Final Projects Part 1 Due Tuesday (Nov 19)
 -- Environments
 -- Room Scale Movement
 -- Basic Interactions
 
-##  Week 10 ~ Final Project work Session 1 (Nov 19)
+##  Week 10 ~ Final Project work Session 1 (Nov 26)
 
 - Guest Speaker   
 - Coding Workshop
@@ -220,26 +213,14 @@ In the second half of the class, students will work in groups to build a final s
 	-   Final Project Part 2
 
 	
-#### Final Projects Part 2 Due Tuesday Nov 13th 
+##  Week 11 Final Projects Part 2 Due Tuesday (Dec 3) 
 -- Avatars (if any)
 -- Interactions
 -- Basic Networking
 -- Game Logic
 
 
-##  Week 11 ~ Final project work Session 2 (Nov 16th)
-
-- Guest Speaker   
-- Coding Workshop
-
-#### Final Projects Part 3 Due, Tuesday Nov 20th 
--- Installation Setup
--- VR Enviroment Finalized
--- Networking Finalized
--- Game Experience
-
-
-##  Week 12 ~ Final Project Presentations (Nov 26th)
+##  Week 12 ~ Final Project Presentations (Dec 10)
 
 - Final Presentations
  
