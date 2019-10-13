@@ -10,13 +10,14 @@
 
 ## INTRO
 
-The virtual expansion of screens began during the 1960’s with the exploration of head-mounted displays. Since the 60’s, virtual reality has been explored in a multi-disciplinary context including philosophy, design, arts, behavioral therapy.
 
-Baudrillard, with his publication of Simulacra and Simulation (1981), declared that human experience is being replaced by a simulation of reality (HyperReality). His theories help build upon a dystopian narrative of the virtual also present in mainstream pop-culture, as seen in films such as The  Lawnmower Man and The Matrix. Contrary to Baudrillard, Canadian VR Pioneer Char Davies brings a more constructive perspective to Virtual Reality,
+The virtual expansion of screens began during the 1960’s with the exploration of head-mounted displays. Since the 60’s, virtual reality has been explored in a multi-disciplinary context including philosophy, design, arts, behavioral therapy. There is a technological convergence between the virtual reality and online virtual words and MMO's, by both independent creators or large social media platforms.
+
+Baudrillard, with his publication of Simulacra and Simulation (1981), declared that human experience is being replaced by a simulation of reality (HyperReality). His theories around an understanding of shared existence often help build upon a dystopian narrative of the virtual present in mainstream pop-culture, as seen in films such as The  Lawnmower Man and The Matrix. Contrary to Baudrillard, Canadian VR Pioneer Char Davies brings a more constructive perspective to Virtual Reality,
 
 “facilitating a temporary release from our haitial perceptions and culturally biased assumptions about being in the world, to enable us, however momentarily, to perceive ourselves and the world us freshly.”
 
-Throughout the class, the friction between Baudrillard and Davies will create the foundation of our exploration of Virtual Reality, where we will use room scale headsets and game engines to create “temporal experiences” diving into themes from behavioral sciences to narrative storytelling. 
+Throughout the class, the friction between Baudrillard and Davies will create the foundation of our exploration of Virtual Reality and traveling through Virtual Worlds such as VR Chat. We will use room scale headsets and game engines to create “temporal experiences” diving into themes from behavioral sciences to narrative storytelling. 
 
 ### We will be exploring
 
@@ -47,17 +48,17 @@ In the second half of the class, students will work in groups to build a final s
 ## Week 1 ~ Intro (Sept 10)
 
  -   Class intro, syllabus review, technical skills hare
- -   Lecture -   Intro to Social VR
+ -   Lecture -   Intro to Virtual Worlds
  -   Discussion:
 	-   Jon Rafman - Kool-Aid Man and Second Life [https://www.youtube.com/watch?v=owyNALlnxk0](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DowyNALlnxk0&sa=D&ust=1536727685982000)
 	-   Narrative vs Simulation
+-   Hands on Unity
 	-   Intro to Unity Editor
 	-   Variables and Functions
 	-   Classes and Monobehaviour
  -   Homework:		
-	 - Create a room in [VR Chat](https://www.google.com/url?q=https://vrchat.net/&sa=D&ust=1536727685983000)
+	 - Create an account in VR Chat and make 3 friends [VR Chat](https://www.google.com/url?q=https://vrchat.net/&sa=D&ust=1536727685983000)
 	 - Reading:
-		-   [Plato's, Allegory of the Cave](https://www.google.com/url?q=https://web.stanford.edu/class/ihum40/cave.pdf&sa=D&ust=1536727685983000)
 		-    [Janet H. Murray, From Additive to Express Form: Beyond “Multimedia](https://www.google.com/url?q=https://gwvideogames.files.wordpress.com/2012/11/murray-the-additive-to-expressive-form1.pdf&sa=D&ust=1536727685984000)”
 		- [Char Davies, Rethinking VR: Key Concepts and Concerns](https://www.google.com/url?q=http://www.immersence.com/publications/char/2003-CD-VSSM.html&sa=D&ust=1536727685984000)
 
@@ -73,8 +74,8 @@ In the second half of the class, students will work in groups to build a final s
 	-   [Sachka Unseld - Dear Angelica (VR)](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)
 -   Hands on Unity:
 	-   Intro to Building Blocks of a Scene
-		- 	 All About that Transform
-		- 	 Movement & Collision
+		- 	All About that Transform
+		- 	Movement & Collision
 		-   Instantiation and Objects
 		-   Parameter Control
 		-   Basic Animation
@@ -113,12 +114,13 @@ In the second half of the class, students will work in groups to build a final s
 		-   Movement Control
 		-   Inreaction libraries
 -   Homework:
-	-	 Start ideating your final projects  
+	-	Start ideating your final projects  
 	-   [Unity Assignment](https://github.com/igaln/DesertOfTheReal/tree/master/HW4)
 		-	Create a drawing app with multiple brushes and record your drawing from 3RD party camera perspective
 	-   Podcast
 		-   [Elemental Theory of Presence](https://www.google.com/url?q=http://voicesofvr.com/502-an-elemental-theory-of-presence-future-of-ai-interactive-storytelling/&sa=D&ust=1537458219941000)
-	-   Reading
+	-  Reading
+        -   [Plato's, Allegory of the Cave](https://www.google.com/url?q=https://web.stanford.edu/class/ihum40/cave.pdf&sa=D&ust=1536727685983000)
 		-   [The Sense of Embodiment in Virtual Reality](https://www.google.com/url?q=https://drive.google.com/file/d/1wyBtqWwPdtFXMCb2JvEQ6v4FltMBgjpW/view?usp%3Dsharing&sa=D&ust=1537458219941000)
 
 
@@ -131,11 +133,13 @@ In the second half of the class, students will work in groups to build a final s
 -   Homework:
 	-   Unity Assignment
 		- Create a Room for VR Chat
+    		- [Official Instructions](https://docs.vrchat.com/docs/creating-your-first-world)
+    		- [Youtube Tutorial](https://www.youtube.com/watch?v=9la1cH8Bhks)
 	-   Reading
 		-   [Janet H. Murray, Harbingers of the Holodeck](https://www.google.com/url?q=http://lm03-17.digitalscenography.org/wp-content/uploads/2017/09/Hamlet-on-the-Holodeck.pdf&sa=D&ust=1537458219943000) (Chapter 2)
 		-   [Landscape, Earth, Body, Being, Space, and Time in the](https://www.google.com/url?q=http://www.immersence.com/publications/char/2003-CD-Women-Art-Tech.html&sa=D&ust=1537458219943000) [Immersive Virtual Environments Osmose and Ephémère](https://www.google.com/url?q=http://www.immersence.com/publications/char/2003-CD-Women-Art-Tech.html&sa=D&ust=1537458219944000)
 	-   Listen
-		-    [Sara Ludy - Warzone](https://www.google.com/url?q=https://soundcloud.com/untitledartfairradio/sara-ludy-warzone&sa=D&ust=1537458219944000)
+		- [Sara Ludy - Warzone](https://soundcloud.com/projection-monitor/warzone)
 
 ## Week 6 ~ Midterms (Oct 22)
 
