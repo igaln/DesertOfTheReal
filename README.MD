@@ -22,11 +22,12 @@ Throughout the class, the friction between Baudrillard and Davies will create th
 ### We will be exploring
 
 -   existing VR projects, popular culture references and theory.
+-   travel through existing virtual platorms and make new friends
 -   concepts such as sense of embodiment (SoE), social VR design, and interactive storytelling techniques.
 -   methods for designing, modeling and rigging avatars for VR.
 -   live and pre-recorded animation.
 -   spatial audio techniques such as ambisonic sounds engines.
--   packaging and distributing applications for social VR.
+-   build our own social vr projects
 
 ### Program Learning Objectives
 
