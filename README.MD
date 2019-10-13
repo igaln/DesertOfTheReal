@@ -11,7 +11,7 @@
 ## INTRO
 
 
-The virtual expansion of screens began during the 1960’s with the exploration of head-mounted displays. Since the 60’s, virtual reality has been explored in a multi-disciplinary context including philosophy, design, arts, behavioral therapy. There is a technological convergence between the virtual reality and online virtual words and MMO's, by both independent creators or large social media platforms.
+The virtual expansion of screens began during the 1960’s with the exploration of head-mounted displays. Since the 60’s, virtual reality has been explored in a multi-disciplinary context including philosophy, design, arts, behavioral therapy. There is a technological convergence between virtual reality and online virtual words, by both independent creators and large social media platforms.
 
 Baudrillard, with his publication of Simulacra and Simulation (1981), declared that human experience is being replaced by a simulation of reality (HyperReality). His theories around an understanding of shared existence often help build upon a dystopian narrative of the virtual present in mainstream pop-culture, as seen in films such as The  Lawnmower Man and The Matrix. Contrary to Baudrillard, Canadian VR Pioneer Char Davies brings a more constructive perspective to Virtual Reality,
 
