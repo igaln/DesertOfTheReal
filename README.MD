@@ -153,7 +153,7 @@ In the second half of the class, students will work in groups to build a final s
     -  Prepare your interactive UX drawings in VR for the class.
 -   Presentations, Feedback and Guest Crit
 
-## Week 7 ~ Embodiment (Oct 29)
+## Week 7 ~ Embodiment & Networking Part 1 (Oct 29)
 
 -   Reading Discussions
 -   Watch/experience
@@ -163,19 +163,15 @@ In the second half of the class, students will work in groups to build a final s
 	-   Rigging
 	-   Inverse Kinematics
 	-   Animation Based Avatar Control
-    -   Immersion
-		- Plausibility Illusion
-		- Place of Illusion
-		- The Self
-		- Paradox of Choice  
 -   Homework:
 	-   Unity Assignment
-		-  Create an avatar for VR Chat
+		- Work on Final Project Environments
+		- Create project avatars compatible with VR Chat or Final IK
 	-   Reading
 		-   [Tom Boellstorff - Chapter 5-  The self - The life course -Avatar and alts - Gender and Race - Agency](http://homes.lmc.gatech.edu/~cpearce3/ResearchPapers/Boellstorff%20-%20Coming%20of%20Age%20in%20Second%20Life.pdf)
 		-   [Digital Sensations: Space, Identity and Embodiment in Virtual Reality](https://www.google.com/url?q=https://monoskop.org/images/4/4b/Hillis_Ken_Digital_Sensations_Space_Identity_and_Embodiment_in_Virtual_Reality.pdf&sa=D&ust=1537458219945000)
 
-##  Week 8 ~ Audio & Intro to Networking (Nov 5)
+##  Week 8 ~ Audio & Networking Part 2 (Nov 5)
 
 -   Reading Discussions 
 -   Hands on Unity:
@@ -187,46 +183,51 @@ In the second half of the class, students will work in groups to build a final s
 		-  Synchronization
 		-  Networking Objects
 		-  Networking Avatars
-	 
 -   Homework:
+	- 	Final Projects
+		-	Alpha version of project environment
+		-	Alpha version of avatars
+		-	Submit videos and screenshots of your project progress
 	-   Reading:
 		-  Coming of Age in Second Life - [Place & Time](https://www.google.com/url?q=https://drive.google.com/file/d/1_VXZhJULqrTpk7NtUbVo5f4Iuqm5nhEM/view?usp%3Dsharing&sa=D&ust=1537458219942000)
 		-  Virtual Reality, Healing Practice: An Interview with Char Davies
 		
 
-##  Week 9 ~ Networking Week 2 (Nov 12)
+##  Week 9 ~ Networking Week 2 & Immersion (Nov 12)
 
 -   Reading/Discussion:
 	-   Enter the (un)Canny Valley
 -   Hands on Unity:
-	-   Social VR Construct
-	-   Networking Concepts in Unity
-		-   Networking Avatars
-		-   Face Animation
+	-   Social VR Construct Template
+-   Immersion
+		- Plausibility Illusion
+		- Place of Illusion
+		- The Self
+		- Paradox of Choice  
 	-   Watch/Experience
 		-   Zikr (VR)
 -   Homework:
-	-   Final Project Part 1
+	- 	Final Projects Interactions Alpha  
+	-	Final Project Audio Integration
+	-	Submit videos and screenshots of your project progress
 	-   Try
 		-   WaveVR
 
 	
-##  Week 10 Final Projects Part 1 Due Tuesday (Nov 19)
--- Environments
--- Room Scale Movement
--- Basic Interactions
+##  Week 10 ~ Final Project work Session 1 (Nov 19)
 
-##  Week 11 ~ Final Project work Session 1 (Nov 26)
-
-- Guest Speaker   
-- Coding Workshop
+- 	Coding Workshop
 -   Homework:
-	-   Final Project Part 2
+	-   Finalize Interactions 
+	-	Submit videos and screenshots of your project progress
+
+##  Week 11 ~ Final Project work Session 2 (Nov 26)
+ 
+- 	Coding Workshop
+-   Homework:
+	-   Final Project Onboarding and Offboarding  
+	-	Submit videos and screenshots of your project progress
 
 	
-##  Week 12 Final Projects Part 2 Due Tuesday (Dec 3) 
--- Avatars (if any)
--- Interactions
--- Basic Networking
--- Game Logic
-
+##  Week 12 Final Project Pressentations (Dec 3) 
+ 
