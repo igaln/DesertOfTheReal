@@ -43,8 +43,8 @@ In the second half of the class, we will all collaborate a world building projec
 -   Please Come on time
 
 ## Recommended Books
-[Hamlet in The Holodeck](https://mitpress.mit.edu/books/hamlet-holodeck-updated-edition)
-[Dawn of the New Everything: Encounters with Reality and Virtual Reality](https://www.amazon.com/dp/B071RBPV1V/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+1. [Hamlet in The Holodeck](https://mitpress.mit.edu/books/hamlet-holodeck-updated-edition)
+2. [Dawn of the New Everything: Encounters with Reality and Virtual Reality](https://www.amazon.com/dp/B071RBPV1V/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 ## Curriculum
 
 ## Week 1 ~ Intro (Sept 4)
@@ -65,7 +65,7 @@ In the second half of the class, we will all collaborate a world building projec
 		- [Char Davies, Rethinking VR: Key Concepts and Concerns](https://www.google.com/url?q=http://www.immersence.com/publications/char/2003-CD-VSSM.html&sa=D&ust=1536727685984000)
 
 	 - Unity Assignment
-		 - [Unity Assignment 001 - Basics](https://learn.unity.com/project/roll-a-ball)
+		 - [Unity Assignment 001 - Building a Basic Game](https://learn.unity.com/project/roll-a-ball)
 
 
 ## Week 2 ~ Building Blocks (Sept 11)
