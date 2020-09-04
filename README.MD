@@ -1,11 +1,11 @@
 # Desert of the Real: Deep Dive into Social VR
 ![](https://lh3.googleusercontent.com/ZpgDeJg9rqZl9VNpjHXkIk5W9jqfxJ0m4EQIskEVU00AyfLfBWdpHp89bk6RtPjrx6ogUtW4oyU_ZZcr6pXNa3Uhwa9vWfA852c236dek-V-YdZ3m-Gn9cuhVHvCAhdVPQt2cAOA)
 
-	Fall 2019
-	Tuesday 3:30 pm - 6:15 pm
+	Fall 2020 
+	Friday 9am - 11:55am
 
 	Office Hours:
-		Tuesdays: 1-3pm
+		TBD
 
 
 ## INTRO
@@ -27,13 +27,13 @@ Throughout the class, the friction between Baudrillard and Davies will create th
 -   methods for designing, modeling and rigging avatars for VR.
 -   live and pre-recorded animation.
 -   spatial audio techniques such as ambisonic sounds engines.
--   build our own social vr projects
+-   build our own social vr project
 
 ### Program Learning Objectives
 
 This is a production class, along with a theoretical foundation in which we will prototype projects with networking, inverse kinematics, raycasting and face tracking technologies to explore questions such as “how does the viewer become part of the experience?” and “how does the real space relate to the virtual worlds we design?”
 
-In the second half of the class, students will work in groups to build a final social VR project based on their exploration of the above framework.
+In the second half of the class, we will all collaborate a world building project in partnership with the UN.
 
 ## Conduct
 
@@ -44,16 +44,17 @@ In the second half of the class, students will work in groups to build a final s
 
 ## Recommended Books
 [Hamlet in The Holodeck](https://mitpress.mit.edu/books/hamlet-holodeck-updated-edition)
+[Dawn of the New Everything: Encounters with Reality and Virtual Reality](https://www.amazon.com/dp/B071RBPV1V/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 ## Curriculum
 
-## Week 1 ~ Intro (Sept 10)
+## Week 1 ~ Intro (Sept 4)
 
  -   Class intro, syllabus review, technical skills hare
  -   Lecture -   Intro to Virtual Worlds
  -   Discussion:
 	-   Jon Rafman - Kool-Aid Man and Second Life [https://www.youtube.com/watch?v=owyNALlnxk0](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DowyNALlnxk0&sa=D&ust=1536727685982000)
 	-   Narrative vs Simulation
--   Hands on Unity
+	-   Hands on Unity
 	-   Intro to Unity Editor
 	-   Variables and Functions
 	-   Classes and Monobehaviour
@@ -63,16 +64,15 @@ In the second half of the class, students will work in groups to build a final s
 		-    [Janet H. Murray, From Additive to Express Form: Beyond “Multimedia](https://www.google.com/url?q=https://gwvideogames.files.wordpress.com/2012/11/murray-the-additive-to-expressive-form1.pdf&sa=D&ust=1536727685984000)”
 		- [Char Davies, Rethinking VR: Key Concepts and Concerns](https://www.google.com/url?q=http://www.immersence.com/publications/char/2003-CD-VSSM.html&sa=D&ust=1536727685984000)
 
-	 - Unity Assignments
-		 - [Unity Assignment 001 - Basics](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)
-		 - [Bonus Assignment - Generative Landscape](https://github.com/igaln/DesertOfTheReal/tree/master/HW1)
+	 - Unity Assignment
+		 - [Unity Assignment 001 - Basics](https://learn.unity.com/project/roll-a-ball)
 
 
-## Week 2 ~ Building Blocks (Sept 17)
+## Week 2 ~ Building Blocks (Sept 11)
 
 -   Reading Discussions - Graph Session
 -   Watch/experience
-	-   [Sachka Unseld - Dear Angelica (VR)](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)
+	-   Sachka Unseld - Dear Angelica (VR)
 -   Hands on Unity:
 	-   Intro to Building Blocks of a Scene
 		- 	All About that Transform
@@ -86,7 +86,7 @@ In the second half of the class, students will work in groups to build a final s
 		-    [Introduction to Ludology - Gonzalo Frasca](http://ludology.org/articles/VGT_final.pdf)
 	    -   [Jean Baudrillard, Simulacra and Simulation](https://www.e-reading.club/bookreader.php/144970/Baudrillard_-_Simulacra_and_Simulation.pdf)
 
-## Week 3 ~ Building Blocks p2 (Sept 24)
+## Week 3 ~ Building Blocks p2 (Sept 18)
 
 -   Reading Discussions
 -   Watch/experience
@@ -105,7 +105,7 @@ In the second half of the class, students will work in groups to build a final s
 		-   [Kevin_Bewersdorf, That's Incredible - p17](http://www.linkartcenter.eu/public/editions/Kevin_Bewersdorf_Spirit_Surfing_Link_Editions_2012.pdf)
 		-   [Jonathan Crary - Techniques of the Observer](https://www.google.com/url?q=http://atc.berkeley.edu/201/readings/Crary_Techniques.pdf&sa=D&ust=1537458219939000)
 
-## Week 4 ~ Interactions (Oct 1)
+## Week 4 ~ Interactions (Sept 25)
 
 -   Reading Discussions - Graph Session
 -   Hands on Unity:
@@ -125,7 +125,7 @@ In the second half of the class, students will work in groups to build a final s
 		-   [The Sense of Embodiment in Virtual Reality](https://www.google.com/url?q=https://drive.google.com/file/d/1wyBtqWwPdtFXMCb2JvEQ6v4FltMBgjpW/view?usp%3Dsharing&sa=D&ust=1537458219941000)
 
 
-## Week 5 ~ Social VR Demos and Planning Final Projects (Oct 8)
+## Week 5 ~ Social VR Demos and Planning Final Projects (Oct 2)
 
 -   Projects critiques and reviews
 -   Thinking final projects
@@ -142,7 +142,7 @@ In the second half of the class, students will work in groups to build a final s
 	-   Listen
 		- [Sara Ludy - Warzone](https://soundcloud.com/projection-monitor/warzone)
 
-## Week 6 ~ Midterms (Oct 22)
+## Week 6 ~ Midterms (Oct 9)
 
 -   Midterm Assignment Due
     -  Complete the presentation template with your groups in detail and rehearse presenting
@@ -153,7 +153,7 @@ In the second half of the class, students will work in groups to build a final s
     -  Prepare your interactive UX drawings in VR for the class.
 -   Presentations, Feedback and Guest Crit
 
-## Week 7 ~ Embodiment & Networking Part 1 (Oct 29)
+## Week 7 ~ Embodiment & Networking Part 1 (Oct 16)
 
 -   Reading Discussions
 -   Watch/experience
@@ -171,7 +171,7 @@ In the second half of the class, students will work in groups to build a final s
 		-   [Tom Boellstorff - Chapter 5-  The self - The life course -Avatar and alts - Gender and Race - Agency](http://homes.lmc.gatech.edu/~cpearce3/ResearchPapers/Boellstorff%20-%20Coming%20of%20Age%20in%20Second%20Life.pdf)
 		-   [Digital Sensations: Space, Identity and Embodiment in Virtual Reality](https://www.google.com/url?q=https://monoskop.org/images/4/4b/Hillis_Ken_Digital_Sensations_Space_Identity_and_Embodiment_in_Virtual_Reality.pdf&sa=D&ust=1537458219945000)
 
-##  Week 8 ~ Audio & Networking Part 2 (Nov 5)
+##  Week 8 ~ Audio & Networking Part 2 (Oct 23)
 
 -   Reading Discussions 
 -   Hands on Unity:
@@ -193,7 +193,7 @@ In the second half of the class, students will work in groups to build a final s
 		-  Virtual Reality, Healing Practice: An Interview with Char Davies
 		
 
-##  Week 9 ~ Networking Week 2 & Immersion (Nov 12)
+##  Week 9 ~ Networking Week 2 & Immersion (Oct 30)
 
 -   Reading/Discussion:
 	-   Enter the (un)Canny Valley
@@ -214,14 +214,14 @@ In the second half of the class, students will work in groups to build a final s
 		-   WaveVR
 
 	
-##  Week 10 ~ Final Project work Session 1 (Nov 19)
+##  Week 10 ~ Final Project work Session 1 (Nov 06)
 
 - 	Coding Workshop
 -   Homework:
 	-   Finalize Interactions 
 	-	Submit videos and screenshots of your project progress
 
-##  Week 11 ~ Final Project work Session 2 (Nov 26)
+##  Week 11 ~ Final Project work Session 2 (Nov 13)
  
 - 	Coding Workshop
 -   Homework:
@@ -229,5 +229,5 @@ In the second half of the class, students will work in groups to build a final s
 	-	Submit videos and screenshots of your project progress
 
 	
-##  Week 12 Final Project Pressentations (Dec 3) 
+##  Week 12 Final Project Pressentations 
  
