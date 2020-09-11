@@ -81,7 +81,9 @@ In the second half of the class, we will all collaborate a world building projec
 		-   Parameter Control
 		-   Basic Animation
 -  Homework:
-	-   [Unity Assignment](https://github.com/igaln/DesertOfTheReal/tree/master/HW2)
+	-   [Unity Assignment 1 - Prefabs](https://learn.unity.com/tutorial/prefabs-e#5f49e5bcedbc2a280d7cf66f)
+	-   [Unity Assignment 2 = Animation Clips](https://learn.unity.com/tutorial/working-with-animation-clips#) 
+	-   [Assignment 3](Photogrammetry Scan Your Room)
 	-   Reading:
 		-    [Introduction to Ludology - Gonzalo Frasca](http://ludology.org/articles/VGT_final.pdf)
 	    -   [Jean Baudrillard, Simulacra and Simulation](https://www.e-reading.club/bookreader.php/144970/Baudrillard_-_Simulacra_and_Simulation.pdf)
