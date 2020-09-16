@@ -84,6 +84,7 @@ In the second half of the class, we will all collaborate a world building projec
 	-   [Unity Assignment 1 - Prefabs](https://learn.unity.com/tutorial/prefabs-e#5f49e5bcedbc2a280d7cf66f)
 	-   [Unity Assignment 2 = Animation Clips](https://learn.unity.com/tutorial/working-with-animation-clips#) 
 	-   [Assignment 3](Photogrammetry Scan Your Room)
+		- [Use the following tutorial with reality capture](https://medium.com/realities-io/getting-started-with-photogrammetry-part-2-f957c9e8d61d)
 	-   Reading:
 		-    [Introduction to Ludology - Gonzalo Frasca](http://ludology.org/articles/VGT_final.pdf)
 	    -   [Jean Baudrillard, Simulacra and Simulation](https://www.e-reading.club/bookreader.php/144970/Baudrillard_-_Simulacra_and_Simulation.pdf)
