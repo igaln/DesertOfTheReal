@@ -101,8 +101,8 @@ In the second half of the class, we will all collaborate a world building projec
 		- Basic Physics
 -   Homework:
 	-   Unity Assignment
-		- [Build a simple asteroid game](https://github.com/igaln/DesertOfTheReal/tree/master/HW3)
-	- Content Assignment 
+		- [Your your own rooms hero](https://github.com/igaln/DesertOfTheReal/tree/master/HW003)
+	- Content Assignment
 		- [Scan your body for creating your avatar](https://www.youtube.com/watch?v=coYebICo2O8)
 	-   Reading:
 		-   [Kevin_Bewersdorf, That's Incredible - p17](http://www.linkartcenter.eu/public/editions/Kevin_Bewersdorf_Spirit_Surfing_Link_Editions_2012.pdf)
