@@ -1,11 +1,11 @@
 # HW4
 
 ### 3D DRAWING SHOW
-Build a drawing game that can be recording from the computer screen using a 3rd party camera
+Build a drawing game that can be recorded from the computer screen using a 3rd party camera
 
 #### Download the template here
 
-[https://drive.google.com/file/d/1GJREVxScaeJOe4Pcm19S9jqSkgSuq-5e/view?usp=sharing](https://drive.google.com/file/d/1GJREVxScaeJOe4Pcm19S9jqSkgSuq-5e/view?usp=sharing)
+[Drawing template](https://drive.google.com/file/d/1p_XVTIht2pMZl8TxHgvj4kD0BTsPNuFK/view?usp=sharing)
 
 ### Must have functinalities
 
@@ -21,7 +21,7 @@ Build a drawing game that can be recording from the computer screen using a 3rd 
 3. ColorSelector - Tells Brush Handler which color is selected on Collision
 
 #### TODO
-1. Setup your scene to have SteamVR Input Player and teleports
+1. Setup your scene to have Oculus Player and Teleportation
 2. Setup a 3D menu with different colored objects - Each Object must know what color they are
 3. On Collision Update the selected Color in Brush Handler
 4. When grip is pulled in the Controller, use the transform position of the controller to instantiate the Brush Prefab and update its color from the BrushHandler
