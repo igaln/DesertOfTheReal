@@ -130,8 +130,12 @@ In the second half of the class, we will all collaborate a world building projec
 
 ## Week 5 ~ Social VR Demos and Planning Final Projects (Oct 2)
 
--   Projects critiques and reviews
 -   Thinking final projects
+- -   Hands on Unity:
+	-   Avatar Control
+	-   Rigging
+	-   Inverse Kinematics
+	-   Animation Based Avatar Control
 -   Form Groups
 	-   Ideation & Storyboarding for creating Social VR Exercise
 -   Homework:
@@ -141,11 +145,25 @@ In the second half of the class, we will all collaborate a world building projec
     		- [Youtube Tutorial](https://www.youtube.com/watch?v=9la1cH8Bhks)
 	-   Reading
 		-   [Janet H. Murray, Harbingers of the Holodeck](https://www.google.com/url?q=http://lm03-17.digitalscenography.org/wp-content/uploads/2017/09/Hamlet-on-the-Holodeck.pdf&sa=D&ust=1537458219943000) (Chapter 2)
-		-   [Landscape, Earth, Body, Being, Space, and Time in the](https://www.google.com/url?q=http://www.immersence.com/publications/char/2003-CD-Women-Art-Tech.html&sa=D&ust=1537458219943000) [Immersive Virtual Environments Osmose and Ephémère](https://www.google.com/url?q=http://www.immersence.com/publications/char/2003-CD-Women-Art-Tech.html&sa=D&ust=1537458219944000)
+				-   [Tom Boellstorff - Chapter 5-  The self - The life course -Avatar and alts - Gender and Race - Agency](http://homes.lmc.gatech.edu/~cpearce3/ResearchPapers/Boellstorff%20-%20Coming%20of%20Age%20in%20Second%20Life.pdf)
+		-   [Landscape, Earth, Body, Being, Space, and Time in the](https://www.google.com/url?q=http://www.immersence.com/publications/char/2003-CD-Women-Art-Tech.html&sa=D&ust=1537458219943000) 
 	-   Listen
 		- [Sara Ludy - Warzone](https://soundcloud.com/projection-monitor/warzone)
 
-## Week 6 ~ Midterms (Oct 9)
+
+## Week 6  ~ Embodiment & Networking Part 1 (Oct 9)
+
+-   Reading Discussions
+-   Watch/experience
+	-   Office Simulation (VR)
+-   Homework:
+	-   Unity Assignment
+		- Create project avatars compatible with Final IK
+	-   Reading
+	- 	[Immersive Virtual Environments Osmose and Ephémère](https://www.google.com/url?q=http://www.		immersence.com/publications/char/2003-CD-Women-Art-Tech.html&sa=D&ust=1537458219944000)
+		-   [Digital Sensations: Space, Identity and Embodiment in Virtual Reality](https://www.google.com/url?q=https://monoskop.org/images/4/4b/Hillis_Ken_Digital_Sensations_Space_Identity_and_Embodiment_in_Virtual_Reality.pdf&sa=D&ust=1537458219945000)
+
+## Week 7 ~ Midterms (Oct 16)
 
 -   Midterm Assignment Due
     -  Complete the presentation template with your groups in detail and rehearse presenting
@@ -156,23 +174,6 @@ In the second half of the class, we will all collaborate a world building projec
     -  Prepare your interactive UX drawings in VR for the class.
 -   Presentations, Feedback and Guest Crit
 
-## Week 7 ~ Embodiment & Networking Part 1 (Oct 16)
-
--   Reading Discussions
--   Watch/experience
-	-   Office Simulation (VR)
--   Hands on Unity:
-	-   Avatar Control
-	-   Rigging
-	-   Inverse Kinematics
-	-   Animation Based Avatar Control
--   Homework:
-	-   Unity Assignment
-		- Work on Final Project Environments
-		- Create project avatars compatible with VR Chat or Final IK
-	-   Reading
-		-   [Tom Boellstorff - Chapter 5-  The self - The life course -Avatar and alts - Gender and Race - Agency](http://homes.lmc.gatech.edu/~cpearce3/ResearchPapers/Boellstorff%20-%20Coming%20of%20Age%20in%20Second%20Life.pdf)
-		-   [Digital Sensations: Space, Identity and Embodiment in Virtual Reality](https://www.google.com/url?q=https://monoskop.org/images/4/4b/Hillis_Ken_Digital_Sensations_Space_Identity_and_Embodiment_in_Virtual_Reality.pdf&sa=D&ust=1537458219945000)
 
 ##  Week 8 ~ Audio & Networking Part 2 (Oct 23)
 
