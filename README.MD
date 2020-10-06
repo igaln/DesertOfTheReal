@@ -143,6 +143,8 @@ In the second half of the class, we will all collaborate a world building projec
 		- Create a Room for VR Chat
     		- [Official Instructions](https://docs.vrchat.com/docs/creating-your-first-world)
     		- [Youtube Tutorial](https://www.youtube.com/watch?v=9la1cH8Bhks)
+		- Optional Coding Assignment
+			- [Avatar Switcher](https://github.com/igaln/DesertOfTheReal/tree/master/HW5)
 	-   Reading
 		-   [Janet H. Murray, Harbingers of the Holodeck](https://www.google.com/url?q=http://lm03-17.digitalscenography.org/wp-content/uploads/2017/09/Hamlet-on-the-Holodeck.pdf&sa=D&ust=1537458219943000) (Chapter 2)
 				-   [Tom Boellstorff - Chapter 5-  The self - The life course -Avatar and alts - Gender and Race - Agency](http://homes.lmc.gatech.edu/~cpearce3/ResearchPapers/Boellstorff%20-%20Coming%20of%20Age%20in%20Second%20Life.pdf)
